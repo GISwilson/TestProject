@@ -10,6 +10,7 @@ namespace MyGitProject
     {
         static void Main(string[] args)
         {
+            //增加了一个注释
             Console.WriteLine("Hello,Git!");
         }
     }
